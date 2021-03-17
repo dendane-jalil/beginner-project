@@ -17,7 +17,7 @@ keep_going = True
 
 if __name__ == '__main__':
     while keep_going:
-        print("Welcome to calculator 0.1 ,Select operation.")
+        print("Welcome to calculator v0.1 ,Select operation.")
         print("1.Add", end=' ')
         print("2.Subtract", end=' ')
         print("3.Multiply", end=' ')
