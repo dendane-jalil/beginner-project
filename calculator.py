@@ -14,13 +14,7 @@ def div(x,y):
     return (x/y)
 
 keep_going = True
-'''''
-def key_capture_thread():
-    global keep_going
-    a = keyboard.read_key()
-    if a == "esc":
-        keep_going = False
-'''''
+
 if __name__ == '__main__':
     while keep_going:
         print("Welcome to calculator 0.1 ,Select operation.")
