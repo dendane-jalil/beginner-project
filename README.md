@@ -1,3 +1,3 @@
 # beginner-project
 projects for fun
-still on my learning journey
+still on my learning journey ver3
